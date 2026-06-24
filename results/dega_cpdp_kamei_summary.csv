@@ -1,0 +1,2 @@
+dataset,rows,paper_nested_f1,paper_best_existing_f1,rg_f1,rg_auc,rg_defect_f1,rg_recall,wins_vs_paper_best,wins_vs_paper_nested,rg_minus_paper_best_f1,rg_minus_paper_nested_f1
+CPDP-Kamei,30,0.7073,0.6940000000000001,0.7532328920724397,0.7503907507671151,0.3095749804111741,0.3092002781679779,21,20,0.05923289207243965,0.04593289207243967

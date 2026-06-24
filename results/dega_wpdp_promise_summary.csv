@@ -1,0 +1,2 @@
+dataset,rows,paper_nested_f1,paper_best_existing_f1,rg_f1,rg_auc,rg_defect_f1,rg_recall,wins_vs_paper_best,wins_vs_paper_nested,rg_minus_paper_best_f1,rg_minus_paper_nested_f1
+WPDP-PROMISE,370,0.8019486486486487,0.8052459459459459,0.7863823607693083,0.798371856313524,0.5447928998299431,0.5504091533037416,160,166,-0.018863585176637554,-0.015566287879340335

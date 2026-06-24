@@ -1,0 +1,21 @@
+﻿__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# local datasets and large generated outputs
+data/
+outputs/
+catboost_info/
+
+# paper and presentation artifacts
+*.docx
+*.pdf
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.webp

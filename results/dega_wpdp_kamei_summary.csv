@@ -1,0 +1,2 @@
+dataset,rows,paper_nested_f1,paper_best_existing_f1,rg_f1,rg_auc,rg_defect_f1,rg_recall,wins_vs_paper_best,wins_vs_paper_nested,rg_minus_paper_best_f1,rg_minus_paper_nested_f1
+WPDP-Kamei,60,0.82005,0.8196833333333333,0.8249731769844304,0.8264949347922147,0.5018226768091371,0.45062334142639604,47,48,0.0052898436510970814,0.004923176984430455

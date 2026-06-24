@@ -1,0 +1,2 @@
+dataset,rows,paper_nested_f1,paper_best_existing_f1,rg_f1,rg_auc,rg_defect_f1,rg_recall,wins_vs_paper_best,wins_vs_paper_nested,rg_minus_paper_best_f1,rg_minus_paper_nested_f1
+CPDP-PROMISE6,6,0.7355166666666667,0.5276833333333334,0.7548122157776223,0.6506800823299962,0.32029810738279135,0.3106710533622078,5,5,0.22712888244428886,0.019295549110955545
