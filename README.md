@@ -29,8 +29,6 @@ DEGA-SDP/
 
 ## Environment
 
-Tested on Windows with ordinary CPU. GPU, Docker, database services, browser automation, and large VM artifacts are not required.
-
 Recommended Python version: 3.9 or later.
 
 ```bash
