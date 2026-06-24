@@ -16,7 +16,11 @@ DEGA-SDP/
 ├── run_experiments.py          # command line experiment runner
 ├── src/
 │   ├── __init__.py
-│   └── dega_sdp.py             # DEGA-SDP model, data loaders, metrics, constants
+│   ├── config.py               # experiment constants and paper baseline values
+│   ├── data.py                 # Kamei/PROMISE dataset discovery and loaders
+│   ├── model.py                # DEGA-SDP model, gate fusion, metrics
+│   ├── experiment_utils.py     # CSV writing and result summarization
+│   └── dega_sdp.py             # public API re-exports for runner compatibility
 ├── results/                    # reference summaries from the final experiments
 ├── requirements.txt
 ├── .gitignore
@@ -131,3 +135,4 @@ The `results/` directory contains the final grouped summaries from the local exp
 - This repository intentionally excludes paper drafts, paper figures, PPT files, image-generation scripts, and intermediate analysis artifacts.
 - The datasets are not redistributed in this repository. Please download them from the dataset source above.
 - Random seeds are fixed in the runner, but minor numeric differences may occur across scikit-learn versions.
+
